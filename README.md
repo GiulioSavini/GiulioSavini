@@ -1,119 +1,111 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Giulio%20Savini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Infrastructure%20Engineer%20%7C%20DevOps%20%7C%20Open%20Source&descSize=18&descAlignY=52" width="100%" />
+
 <div align="center">
 
-<!-- Animated typing header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Infrastructure+Engineer+%7C+DevOps;Monitoring+%7C+Automation+%7C+Security" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%94%A7+Building+infrastructure+that+scales;%F0%9F%9B%A1%EF%B8%8F+Monitoring+everything+that+moves;%F0%9F%90%B3+Containerizing+all+the+things;%E2%98%81%EF%B8%8F+Multi-cloud+architect;%F0%9F%94%90+Security+first%2C+always" alt="Typing SVG" /></a>
 
 <br/>
 
-```
- ╔══════════════════════════════════════════════════════════════╗
- ║  $ whoami                                                   ║
- ║  giulio — infrastructure engineer who automates everything  ║
- ║                                                             ║
- ║  $ cat /etc/interests                                       ║
- ║  monitoring · IaC · containers · security · open-source     ║
- ╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://badges.pufler.dev/visits/GiulioSavini/GiulioSavini?style=for-the-badge&color=3b82f6&logo=github" />
+<img src="https://badges.pufler.dev/repos/GiulioSavini?style=for-the-badge&color=3b82f6&logo=github" />
+<img src="https://badges.pufler.dev/commits/monthly/GiulioSavini?style=for-the-badge&color=3b82f6&logo=github" />
+
+</div>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/GiulioSavini?style=for-the-badge&logo=github&color=1a1b27&labelColor=0d1117)](https://github.com/GiulioSavini)
-[![Profile Views](https://komarev.com/ghpvc/?username=GiulioSavini&style=for-the-badge&color=3b82f6&label=VISITORS)](https://github.com/GiulioSavini)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- Infrastructure Engineer specializing in **monitoring**, **automation** and **security**
+- Building **Icinga/NetEye** monitoring plugins for enterprise environments
+- Architecting **multi-cloud** platforms with Terraform (AWS + Azure + GCP)
+- Contributing to **[Arcane](https://github.com/getarcaneapp/arcane)** open source project
+- Automating everything with **Ansible** and **Docker**
+
+<br/><br/><br/>
+
+---
+
+<h2 align="center">Technology Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"></h2>
+
+<div align="center">
+
+<h4>Infrastructure & Cloud</h4>
+
+<img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,aws,azure,gcp&theme=dark" />
+
+<h4>Monitoring & Security</h4>
+
+![Icinga](https://img.shields.io/badge/Icinga-06062C?style=for-the-badge&logo=icinga&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3C50E0?style=for-the-badge&logoColor=white)
+![Veeam](https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+
+<h4>Languages & Tools</h4>
+
+<img src="https://skillicons.dev/icons?i=go,python,bash,powershell,linux,git,vim,vscode&theme=dark" />
 
 </div>
 
 ---
 
-### &lt;/&gt; Tech Stack
-
-<div align="center">
-
-**Infrastructure & Cloud**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-
-**Monitoring & Security**
-
-![Icinga](https://img.shields.io/badge/Icinga-06062C?style=flat-square&logo=icinga&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3C50E0?style=flat-square&logoColor=white)
-![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
-
-**Languages & Tools**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
-### Featured Projects
+<h2 align="center">Featured Projects <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Monitoring Plugins**
-<br/>
-[![check-fortigate](https://img.shields.io/badge/check--fortigate-SNMP_monitoring_for_FortiGate-06062C?style=flat-square)](https://github.com/GiulioSavini/check-fortigate)
-<br/>
-[![check-veeam-jobs](https://img.shields.io/badge/check--veeam--jobs-Veeam_backup_monitoring-00B336?style=flat-square)](https://github.com/GiulioSavini/check-veeam-jobs)
-<br/>
-[![check-vm-files](https://img.shields.io/badge/check--vm--files-VMDK_&_snapshot_monitoring-607078?style=flat-square)](https://github.com/GiulioSavini/check-vm-files)
-<br/>
-[![check-vsphere](https://img.shields.io/badge/check--vsphere--replication-vSphere_replication_health-607078?style=flat-square)](https://github.com/GiulioSavini/check-vsphere-replication)
+<h3 align="center">Monitoring Plugins</h3>
+
+<p align="center">
+<a href="https://github.com/GiulioSavini/check-fortigate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=check-fortigate&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/GiulioSavini/check-veeam-jobs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=check-veeam-jobs&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Infrastructure as Code**
-<br/>
-[![multi-cloud-hybrid](https://img.shields.io/badge/terraform--multi--cloud--hybrid-AWS+Azure+GCP_landing_zone-7B42BC?style=flat-square)](https://github.com/GiulioSavini/terraform-multi-cloud-hybrid)
-<br/>
-[![devsecops](https://img.shields.io/badge/terraform--multi--cloud--devsecops-EKS+AKS+GKE_platform-7B42BC?style=flat-square)](https://github.com/GiulioSavini/terraform-multi-cloud-devsecops)
-<br/>
-[![data-platform](https://img.shields.io/badge/terraform--multi--cloud--data-Aurora+CosmosDB+BigQuery-7B42BC?style=flat-square)](https://github.com/GiulioSavini/terraform-multi-cloud-data-platform)
-<br/>
-[![wazuh](https://img.shields.io/badge/wazuh--docker--platform-Production_Wazuh_+_Ansible-3C50E0?style=flat-square)](https://github.com/GiulioSavini/wazuh-docker-monitoring-platform)
+<h3 align="center">Infrastructure as Code</h3>
+
+<p align="center">
+<a href="https://github.com/GiulioSavini/terraform-multi-cloud-hybrid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=terraform-multi-cloud-hybrid&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/GiulioSavini/terraform-multi-cloud-devsecops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=terraform-multi-cloud-devsecops&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Automation**
-<br/>
-[![ansible-password](https://img.shields.io/badge/ansible--root--password--rotation-Secure_password_rotation-EE0000?style=flat-square)](https://github.com/GiulioSavini/ansible-root-password-rotation)
-<br/>
-[![icinga2-installer](https://img.shields.io/badge/icinga2--ansible--installer-Multi--distro_Icinga2_deploy-EE0000?style=flat-square)](https://github.com/GiulioSavini/icinga2-ansible-installer)
-<br/>
-[![vmware-tools](https://img.shields.io/badge/vmware--tools--builder-Build_open--vm--tools_from_source-607078?style=flat-square)](https://github.com/GiulioSavini/vmware-tools-builder)
+<h3 align="center">Automation</h3>
+
+<p align="center">
+<a href="https://github.com/GiulioSavini/ansible-root-password-rotation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=ansible-root-password-rotation&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/GiulioSavini/wazuh-docker-monitoring-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=wazuh-docker-monitoring-platform&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Security & Containers**
-<br/>
-[![secret-rotator](https://img.shields.io/badge/secret--rotator-Docker_secret_rotation-FFEC6E?style=flat-square)](https://github.com/GiulioSavini/secret-rotator)
-<br/>
-[![arcane](https://img.shields.io/badge/arcane-Open_source_contributor-2496ED?style=flat-square)](https://github.com/getarcaneapp/arcane)
-<br/>
-[![vcenter-report](https://img.shields.io/badge/vcenter--vms--report-Multi--vCenter_VM_inventory-3776AB?style=flat-square)](https://github.com/GiulioSavini/vcenter-vms-report)
+<h3 align="center">Security & Containers</h3>
+
+<p align="center">
+<a href="https://github.com/GiulioSavini/secret-rotator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=secret-rotator&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/getarcaneapp/arcane"><img src="https://github-readme-stats.vercel.app/api/pin/?username=getarcaneapp&repo=arcane&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+</p>
 
 </td>
 </tr>
@@ -122,25 +114,39 @@
 
 ---
 
-### GitHub Stats
+<h2 align="center">My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40"></h2>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GiulioSavini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=GiulioSavini&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GiulioSavini/GiulioSavini/raw/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/GiulioSavini/GiulioSavini/raw/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/GiulioSavini/GiulioSavini/raw/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<h2 align="center">GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></h2>
+
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GiulioSavini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GiulioSavini&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiulioSavini&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=3b82f6" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiulioSavini&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=3b82f6" width="98%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GiulioSavini&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
 </div>
 
 ---
 
-<div align="center">
-
-**Open source contributor** · Building infrastructure tools that work at scale
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=80&section=footer" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
