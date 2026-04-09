@@ -24,7 +24,16 @@
 - Contributing to **[Arcane](https://github.com/getarcaneapp/arcane)** open source project
 - Automating everything with **Ansible** and **Docker**
 
-<br/><br/><br/>
+<br/>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-giuliosavini@proton.me-EA4335?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:giuliosavini@proton.me)
+[![GitHub](https://img.shields.io/badge/-GiulioSavini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiulioSavini)
+
+</div>
+
+<br/>
 
 ---
 
