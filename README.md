@@ -153,6 +153,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GiulioSavini&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GiulioSavini/GiulioSavini/raw/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/GiulioSavini/GiulioSavini/raw/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/GiulioSavini/GiulioSavini/raw/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
