@@ -124,14 +124,10 @@
 
 ---
 
-<h2 align="center">My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40"></h2>
+<h2 align="center">Top Languages <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40"></h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GiulioSavini/GiulioSavini/raw/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/GiulioSavini/GiulioSavini/raw/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/GiulioSavini/GiulioSavini/raw/output/github-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiulioSavini&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact&langs_count=10&title_color=3b82f6" width="60%" />
 </div>
 
 ---
