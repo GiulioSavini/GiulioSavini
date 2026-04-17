@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%94%A7+Building+infrastructure+that+scales;%F0%9F%9B%A1%EF%B8%8F+Monitoring+everything+that+moves;%F0%9F%90%B3+Containerizing+all+the+things;%E2%98%81%EF%B8%8F+Multi-cloud+architect;%F0%9F%94%90+Security+first%2C+always" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%94%A7+Building+infrastructure+that+scales;%F0%9F%9B%A1%EF%B8%8F+Monitoring+everything+that+moves;%F0%9F%90%B3+Containerizing+all+the+things;%E2%98%81%EF%B8%8F+Multi-cloud+architect;%F0%9F%94%90+Security+first%2C+always;%F0%9F%9A%80+Ansible+Galaxy+collection+author" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -23,6 +23,7 @@
 - Architecting **multi-cloud** platforms with Terraform (AWS + Azure + GCP)
 - Contributing to **[Arcane](https://github.com/getarcaneapp/arcane)** open source project
 - Automating everything with **Ansible** and **Docker**
+- Author of **[GalaxyPulse](https://github.com/GiulioSavini/giuliosavini-galaxypulse)** — self-hosted Ansible Galaxy stats dashboard on Galaxy
 
 <br/>
 
@@ -95,13 +96,13 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">Automation</h3>
+<h3 align="center">Automation & Ansible Galaxy</h3>
 
 <p align="center">
-<a href="https://github.com/GiulioSavini/ansible-root-password-rotation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=ansible-root-password-rotation&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+<a href="https://github.com/GiulioSavini/giuliosavini-galaxypulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=giuliosavini-galaxypulse&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/GiulioSavini/wazuh-docker-monitoring-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=wazuh-docker-monitoring-platform&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+<a href="https://github.com/GiulioSavini/ansible-root-password-rotation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=ansible-root-password-rotation&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
 </p>
 
 </td>
