@@ -70,16 +70,30 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">Monitoring Plugins</h3>
+<h3 align="center">Security & SIEM</h3>
 
 <p align="center">
-<a href="https://github.com/GiulioSavini/check-fortigate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=check-fortigate&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+<a href="https://github.com/GiulioSavini/wazuh-docker-monitoring-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=wazuh-docker-monitoring-platform&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/GiulioSavini/check-veeam-jobs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=check-veeam-jobs&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+<a href="https://github.com/GiulioSavini/secret-rotator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=secret-rotator&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
 </p>
 
 </td>
+<td width="50%" valign="top">
+
+<h3 align="center">Automation & Ansible Galaxy</h3>
+
+<p align="center">
+<a href="https://github.com/GiulioSavini/vmware-tools-builder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=vmware-tools-builder&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/GiulioSavini/ansible-root-password-rotation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=ansible-root-password-rotation&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+</p>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center">Infrastructure as Code</h3>
@@ -92,26 +106,12 @@
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-<h3 align="center">Automation & Ansible Galaxy</h3>
+<h3 align="center">Monitoring & Open Source</h3>
 
 <p align="center">
-<a href="https://github.com/GiulioSavini/giuliosavini-galaxypulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=giuliosavini-galaxypulse&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/GiulioSavini/ansible-root-password-rotation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=ansible-root-password-rotation&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">Security & Containers</h3>
-
-<p align="center">
-<a href="https://github.com/GiulioSavini/secret-rotator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=secret-rotator&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+<a href="https://github.com/GiulioSavini/check-fortigate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=check-fortigate&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/getarcaneapp/arcane"><img src="https://github-readme-stats.vercel.app/api/pin/?username=getarcaneapp&repo=arcane&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
