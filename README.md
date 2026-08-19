@@ -145,27 +145,17 @@ engineer:
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 📊 GitHub Activity & Contributions
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GiulioSavini&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="98%" />
+  <img src="https://streak-stats.demolab.com?user=GiulioSavini&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="80%" />
 </div>
 
 <br/>
 
+<!-- Interactive Snake Contribution Graph Animation (Directly hosted on GitHub CDN) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiulioSavini&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8" width="98%" />
-</div>
-
-<br/>
-
-<!-- Interactive Snake Contribution Graph Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/output/github-snake-dark.svg" width="100%" />
-  </picture>
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/output/github-snake-dark.svg" width="95%" />
 </div>
 
 <br/>
