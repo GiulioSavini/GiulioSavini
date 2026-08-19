@@ -13,7 +13,7 @@
   <p align="center">
     <a href="https://github.com/GiulioSavini"><img src="https://img.shields.io/github/followers/GiulioSavini?label=Followers&style=for-the-badge&logo=github&color=0f172a&logoColor=38bdf8&labelColor=1e293b" /></a>
     <img src="https://img.shields.io/badge/Status-Building_%26_Automating-0ea5e9?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=0f172a" />
-    <a href="https://github.com/GiulioSavini?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Public_Projects-6366f1?style=for-the-badge&logo=git&logoColor=white&labelColor=0f172a" /></a>
+    <a href="https://github.com/GiulioSavini?tab=repositories"><img src="https://img.shields.io/badge/Repositories-25_Public_Projects-6366f1?style=for-the-badge&logo=git&logoColor=white&labelColor=0f172a" /></a>
     <img src="https://img.shields.io/badge/Focus-Infrastructure_As_Code-8b5cf6?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0f172a" />
   </p>
 </div>
@@ -145,17 +145,11 @@ engineer:
 
 ---
 
-### 📊 GitHub Activity & Contributions
+### 🐍 GitHub Contributions
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GiulioSavini&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="80%" />
-</div>
-
-<br/>
-
-<!-- Interactive Snake Contribution Graph Animation (Directly hosted on GitHub CDN) -->
-<div align="center">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/output/github-snake-dark.svg" width="95%" />
+  <!-- Interactive Snake Game Animation (Directly hosted on GitHub CDN) -->
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/output/github-snake-dark.svg" width="100%" />
 </div>
 
 <br/>
