@@ -2,26 +2,26 @@
 
   <!-- BANNER & TYPING SVG -->
   <a href="https://github.com/GiulioSavini">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=BD34FE&center=true&vCenter=true&random=false&width=650&height=50&lines=%E2%9A%A1+INITIALIZING+REZE.EXE...;%F0%9F%92%A3+BOMB+DEVIL+HYBRID+%2F%2F+NIGHTMARE+ECLIPSE;%F0%9F%94%B4+SYSTEM+BREACH+DETECTED+%7C%7C+WELCOME;%F0%9F%9B%A1%EF%B8%8F+DEVSECOPS+%7C+CLOUD+INFRASTRUCTURE+%7C+EXPLOITS;%F0%9F%91%81%EF%B8%8F+%22Country+mouse+or+city+mouse%3F%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=BD34FE&center=true&vCenter=true&random=false&width=650&height=50&lines=%E2%9A%A1+Infrastructure+%26+Platform+Engineering;%F0%9F%9B%A1%EF%B8%8F+DevSecOps%2C+SIEM+%26+Security+Automation;%E2%98%81%EF%B8%8F+Multi-Cloud+Architecture+(AWS+%C2%B7+Azure+%C2%B7+GCP+%C2%B7+OCI);%F0%9F%9A%80+Open+Source+Author+%26+Tooling+Maintainer;%F0%9F%90%B3+Container+Orchestration+%26+Observability" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
   </p>
 
-  <!-- REZE GIF / CYBERPUNK BOMB DEVIL -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RveDdpMnVrc2tucWJxeWdpcm1pd2h6Y3BicW01czdtZ2d3b25mNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MHDtoxSJHbU9W/giphy.gif" alt="Reze / Bomb Devil" width="550" style="border-radius: 12px; border: 2px solid #bd34fe; box-shadow: 0 0 25px rgba(189, 52, 254, 0.6);" />
+  <!-- CYBERPUNK / ANIME AESTHETIC BANNER GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RveDdpMnVrc2tucWJxeWdpcm1pd2h6Y3BicW01czdtZ2d3b25mNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MHDtoxSJHbU9W/giphy.gif" alt="Cyberpunk Aesthetic Visual" width="550" style="border-radius: 12px; border: 2px solid #bd34fe; box-shadow: 0 0 25px rgba(189, 52, 254, 0.6);" />
 
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,25&height=120&section=header&text=GIULIO%20SAVINI%20%E2%80%A2%20REZE%20%E2%80%A2%20NIGHTMARE%20ECLIPSE&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,25&height=120&section=header&text=GIULIO%20SAVINI%20%E2%80%A2%20INFRASTRUCTURE%20%26%20CLOUD&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" />
   </p>
 
-  <!-- STATUS / PROTOCOL BADGES -->
+  <!-- STATUS / PROFILE BADGES -->
   <p align="center">
     <a href="https://github.com/GiulioSavini"><img src="https://img.shields.io/github/followers/GiulioSavini?label=Followers&style=for-the-badge&logo=github&color=0D1117&logoColor=BD34FE&labelColor=161B22" /></a>
-    <img src="https://img.shields.io/badge/Devil_Contract-Bomb_Devil-ff0055?style=for-the-badge&logo=target&logoColor=white&labelColor=161B22" />
-    <img src="https://img.shields.io/badge/Division-Nightmare_Eclipse-8b5cf6?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=161B22" />
-    <a href="https://github.com/GiulioSavini?tab=repositories"><img src="https://img.shields.io/badge/Arsenal-25_Explosive_Repos-00F0FF?style=for-the-badge&logo=git&logoColor=black&labelColor=161B22" /></a>
+    <img src="https://img.shields.io/badge/Focus-Infrastructure_as_Code-8b5cf6?style=for-the-badge&logo=terraform&logoColor=white&labelColor=161B22" />
+    <img src="https://img.shields.io/badge/Security-DevSecOps_%26_SIEM-ff0055?style=for-the-badge&logo=wazuh&logoColor=white&labelColor=161B22" />
+    <a href="https://github.com/GiulioSavini?tab=repositories"><img src="https://img.shields.io/badge/Repositories-25_Public_Projects-00F0FF?style=for-the-badge&logo=git&logoColor=black&labelColor=161B22" /></a>
   </p>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="80%" />
@@ -29,31 +29,23 @@
 
 <br>
 
-<!-- TERMINAL / HACKER BIO -->
+<!-- TERMINAL / PROFILE OVERVIEW -->
 ```bash
-?????????(reze???nightmare-eclipse)-[~]
+?????????(giulio???workstation)-[~]
 ??????$ cat /proc/user/identity
 {
-  "engineer": "Giulio Savini (reze)",
-  "faction": "Nightmare Eclipse // DevSecOps & Security Automation",
-  "devil_contract": "Bomb Devil (Chainsaw Man)",
+  "name": "Giulio Savini",
+  "role": "Infrastructure & Platform Engineer",
+  "location": "Italy",
   "specialties": [
-    "DevSecOps & SIEM Architecture (Wazuh, HashiCorp Vault, Trivy)",
-    "Infrastructure as Code & Multi-Cloud (Terraform, Ansible, OCI, AWS, Azure)",
+    "Infrastructure as Code & Cloud Architecture (Terraform, Ansible, OCI, AWS, Azure)",
+    "DevSecOps & SIEM Engineering (Wazuh, HashiCorp Vault, Trivy, Gitleaks)",
     "Enterprise Monitoring & Observability (Icinga, NetEye, Prometheus, Grafana)",
-    "Core Engineering & Automation (Go, Python, Bash, Docker, Kubernetes)"
+    "Core Engineering & Linux Systems (Go, Python, Bash, Docker, Kubernetes)"
   ],
-  "mission": "Write explosive code, automate infrastructure, secure the perimeter.",
-  "quote": "??The country mouse lives safely, but the city mouse tastes delicious food.??"
+  "mission": "Architect resilient cloud platforms, automate workflows, and enhance security posture.",
+  "status": "Building scalable platforms & automating infrastructure"
 }
-```
-
-```bash
-?????????(reze???nightmare-eclipse)-[~]
-??????$ ./spotify-now-playing.sh
-??? NOW PLAYING: Kenshi Yonezu - KICK BACK / Reze Theme (Nightcore VIP Remix)
-  [??????????????????????????????????????????????????????????????????????????????????????????????????????????????????] 02:45 / 03:30
-  ???? Volume: 100% | ??? Lossless Bitrate | ???? Bomb Devil Mode: ACTIVE
 ```
 
 <div align="center">
@@ -62,10 +54,10 @@
 
 <br>
 
-<!-- TECH ARSENAL / WEAPONS SECTION -->
+<!-- TECH STACK & TOOLKIT -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WFtvWgeXZTQ8L827nn/giphy.gif" width="30" />
-  <code>[ WEAPONS & TECH ARSENAL ]</code>
+  <code>[ TECHNOLOGY STACK & TOOLKIT ]</code>
   <img src="https://media.giphy.com/media/WFtvWgeXZTQ8L827nn/giphy.gif" width="30" />
 </h2>
 
@@ -81,15 +73,14 @@
     <img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,aws,azure,gcp&theme=dark" />
   </p>
 
-  ### ??????? SIEM, Security & Observability
+  ### ??????? Monitoring, SIEM & Security Engineering
   <p align="center">
     <img src="https://img.shields.io/badge/Wazuh_SIEM-3C50E0?style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
     <img src="https://img.shields.io/badge/Icinga-06062C?style=for-the-badge&logo=icinga&logoColor=white" />
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white" />
   </p>
 
 </div>
@@ -102,9 +93,9 @@
 
 <br>
 
-<!-- FEATURED REPOSITORIES -->
+<!-- FEATURED PROJECTS -->
 <h2 align="center">
-  <code>???? [ DEPLOYED ARSENAL & PROJECTS ] ????</code>
+  <code>???? [ FEATURED PROJECTS & REPOSITORIES ] ????</code>
 </h2>
 
 <div align="center">
@@ -232,18 +223,12 @@
 
 <br>
 
-<!-- TROPHIES & REZE BANNER FOOTER -->
+<!-- TROPHIES & FOOTER -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GiulioSavini&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
   
   <br><br>
   
-  <!-- REZE FOOTER CARD / QUOTE -->
-  <blockquote>
-    <h3>???? <i>"BOOM."</i></h3>
-    <p><b>Nightmare Eclipse Network // Encrypted Connection Closed.</b></p>
-  </blockquote>
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,12,1&height=100&section=footer" width="100%" />
 </div>
 
