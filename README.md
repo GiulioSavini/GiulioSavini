@@ -109,21 +109,21 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>☁️ <a href="https://github.com/GiulioSavini/terraform-multi-cloud-devsecops">terraform-multi-cloud-devsecops</a></h4>
-      <p><em>Multi-Cloud DevSecOps platform with automated security compliance across AWS, Azure, and GCP.</em></p>
+      <h4>🛡️ <a href="https://github.com/GiulioSavini/monitoring-plugins">monitoring-plugins</a></h4>
+      <p><em>Production suite of Icinga2, NetEye & Nagios plugins (FortiGate, VMware, Veeam, Windows Cluster) + NetEye Reconciler & Suricata/ELK.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-DevSecOps-00F0FF?style=flat-square" />
-        <img src="https://img.shields.io/github/stars/GiulioSavini/terraform-multi-cloud-devsecops?style=flat-square&logo=github&color=BD34FE" />
+        <img src="https://img.shields.io/badge/Icinga%20%2F%20NetEye-Monitoring-06062C?style=flat-square&logo=icinga&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python%20%7C%20PowerShell%20%7C%20Go-Multi--Lang-blue?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/GiulioSavini/monitoring-plugins?style=flat-square&logo=github&color=BD34FE" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/GiulioSavini/check-fortigate">check-fortigate</a></h4>
-      <p><em>Enterprise Icinga/Nagios monitoring plugin for FortiGate firewalls and VPN tunnels.</em></p>
+      <h4>🛠️ <a href="https://github.com/GiulioSavini/devops-toolkit">devops-toolkit</a></h4>
+      <p><em>Curated collection of 14 battle-tested DevSecOps, Linux kernel hardening, container security, and cloud SRE guides.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Icinga-Monitoring-06062C?style=flat-square&logo=icinga&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/GiulioSavini/check-fortigate?style=flat-square&logo=github&color=BD34FE" />
+        <img src="https://img.shields.io/badge/DevSecOps-Security_Guides-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-orange?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/GiulioSavini/devops-toolkit?style=flat-square&logo=github&color=BD34FE" />
       </p>
     </td>
   </tr>
