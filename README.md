@@ -20,7 +20,7 @@
     <a href="https://github.com/GiulioSavini"><img src="https://img.shields.io/github/followers/GiulioSavini?label=Followers&style=for-the-badge&logo=github&color=0D1117&logoColor=BD34FE&labelColor=161B22" /></a>
     <img src="https://img.shields.io/badge/Focus-Infrastructure_as_Code-8b5cf6?style=for-the-badge&logo=terraform&logoColor=white&labelColor=161B22" />
     <img src="https://img.shields.io/badge/Security-DevSecOps_%26_SIEM-ff0055?style=for-the-badge&logo=wazuh&logoColor=white&labelColor=161B22" />
-    <a href="https://github.com/GiulioSavini?tab=repositories"><img src="https://img.shields.io/badge/Repositories-25_Public_Projects-00F0FF?style=for-the-badge&logo=git&logoColor=black&labelColor=161B22" /></a>
+    <a href="https://github.com/GiulioSavini?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18_Public_Projects-00F0FF?style=for-the-badge&logo=git&logoColor=black&labelColor=161B22" /></a>
   </p>
 
 </div>
