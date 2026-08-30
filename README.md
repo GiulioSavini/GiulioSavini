@@ -20,7 +20,7 @@
     <a href="https://github.com/GiulioSavini"><img src="https://img.shields.io/github/followers/GiulioSavini?label=Followers&style=for-the-badge&logo=github&color=0D1117&logoColor=BD34FE&labelColor=161B22" /></a>
     <img src="https://img.shields.io/badge/Focus-Infrastructure_as_Code-8b5cf6?style=for-the-badge&logo=terraform&logoColor=white&labelColor=161B22" />
     <img src="https://img.shields.io/badge/Security-DevSecOps_%26_SIEM-ff0055?style=for-the-badge&logo=wazuh&logoColor=white&labelColor=161B22" />
-    <a href="https://github.com/GiulioSavini?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18_Public_Projects-00F0FF?style=for-the-badge&logo=git&logoColor=black&labelColor=161B22" /></a>
+    <a href="https://github.com/GiulioSavini?tab=repositories"><img src="https://img.shields.io/badge/Repositories-13_Public_Projects-00F0FF?style=for-the-badge&logo=git&logoColor=black&labelColor=161B22" /></a>
   </p>
 
 </div>
@@ -98,12 +98,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ <a href="https://github.com/GiulioSavini/giuliosavini-galaxypulse">giuliosavini-galaxypulse</a></h4>
-      <p><em>Self-hosted analytics and telemetry dashboard for Ansible Galaxy collection authors.</em></p>
+      <h4>⚙️ <a href="https://github.com/GiulioSavini/ansible-collection-stack">ansible-collection-stack</a></h4>
+      <p><em>Master Ansible Collection (Arcane Docker UI, GalaxyPulse, Users, Passwords, Icinga2).</em></p>
       <p>
         <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/GiulioSavini/giuliosavini-galaxypulse?style=flat-square&logo=github&color=BD34FE" />
+        <img src="https://img.shields.io/github/stars/GiulioSavini/ansible-collection-stack?style=flat-square&logo=github&color=BD34FE" />
       </p>
     </td>
   </tr>
