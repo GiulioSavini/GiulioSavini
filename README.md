@@ -148,22 +148,13 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" align="center" valign="top">
       <h4>💡 <a href="https://github.com/GiulioSavini/issue-dash">issue-dash</a></h4>
       <p><em>Self-hosted GitHub Issues dashboard with AI-powered suggestions and custom styling.</em></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/AI-Suggestions-success?style=flat-square" />
         <img src="https://img.shields.io/github/stars/GiulioSavini/issue-dash?style=flat-square&logo=github&color=BD34FE" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚀 <a href="https://github.com/GiulioSavini/postfixbeacon">postfixbeacon</a></h4>
-      <p><em>Web administration platform for Postfix & OpenDKIM with DNS diagnostics & real-time log trace.</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/GiulioSavini/postfixbeacon?style=flat-square&logo=github&color=BD34FE" />
       </p>
     </td>
   </tr>
