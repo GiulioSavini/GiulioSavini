@@ -17,8 +17,7 @@ jobs:
           github_user_name: GiulioSavini
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23E0202C&color_dots=%23161B22,%235C0B12,%238F1119,%23B8161F,%23E0202C
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
