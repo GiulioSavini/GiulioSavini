@@ -3,11 +3,6 @@
   <!-- HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:5C0B12,100:E0202C&height=170&section=header&text=GIULIO%20SAVINI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Infrastructure%20Engineer%20%C2%B7%20Cloud%20Architect%20%C2%B7%20DevSecOps&descSize=16&descAlignY=60" width="100%" />
 
-  <!-- HERO -->
-  <img src="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/main/assets/itachi.gif" alt="Itachi" width="560" />
-
-  <br/>
-
   <a href="https://github.com/GiulioSavini">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=E0202C&center=true&vCenter=true&width=640&height=44&lines=Infrastructure+%26+Platform+Engineering;DevSecOps%2C+SIEM+%26+Security+Automation;Multi-Cloud+Architecture+%E2%80%94+AWS+%C2%B7+Azure+%C2%B7+GCP+%C2%B7+OCI;Ansible+Galaxy+Author+%26+OSS+Maintainer;Container+Orchestration+%26+Observability" alt="Typing SVG" />
   </a>
@@ -23,8 +18,16 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=SYSTEM%20TELEMETRY&fontColor=E0202C&fontSize=26&height=60&fontAlignY=55" />
-  <img src="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/main/assets/neofetch.svg" alt="neofetch" width="100%" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="middle" width="300">
+        <img src="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/main/assets/itachi.gif" alt="Itachi" width="300" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/main/assets/neofetch.svg" alt="neofetch" width="720" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
