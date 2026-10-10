@@ -10,8 +10,8 @@
 
   <br/><br/>
 
-  <!-- GOJO BLINDFOLD / ANIME GIF -->
-  <img src="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/main/assets/gojo.gif" alt="Anime Hacker Visual" width="550" style="border-radius: 12px; border: 2px solid #bd34fe; box-shadow: 0 0 25px rgba(189, 52, 254, 0.6);" />
+  <!-- ITACHI CROWS / ANIME GIF -->
+  <img src="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/main/assets/itachi.gif" alt="Anime Hacker Visual" width="550" style="border-radius: 12px; border: 2px solid #bd34fe; box-shadow: 0 0 25px rgba(189, 52, 254, 0.6);" />
 
   <br/><br/>
 
