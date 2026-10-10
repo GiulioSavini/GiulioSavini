@@ -10,8 +10,8 @@
 
   <br/><br/>
 
-  <!-- REZE CYBERPUNK / ANIME GIF -->
-  <img src="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/main/assets/reze.gif" alt="Anime Hacker Visual" width="550" style="border-radius: 12px; border: 2px solid #bd34fe; box-shadow: 0 0 25px rgba(189, 52, 254, 0.6);" />
+  <!-- GOJO BLINDFOLD / ANIME GIF -->
+  <img src="https://raw.githubusercontent.com/GiulioSavini/GiulioSavini/main/assets/gojo.gif" alt="Anime Hacker Visual" width="550" style="border-radius: 12px; border: 2px solid #bd34fe; box-shadow: 0 0 25px rgba(189, 52, 254, 0.6);" />
 
   <br/><br/>
 
@@ -34,17 +34,19 @@
 ```text
 ╭─[giulio@workstation]
 ╰─$ neofetch
-  ⠄⠄⠄⠄⢠⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣯⢻⣿⣿⣿⣿⣆    User: Giulio Savini
-  ⠄⠄⣼⢀⣿⣿⣿⣿⣏⡏⠄⠹⣿⣿⣿⣿⣿⣿⣿⣿⣧⢻⣿⣿⣿⣿⡆    Role: Infrastructure & Platform Engineer
-  ⠄⠄⡟⣼⣿⣿⣿⣿⣿⠄⠄⠄⠈⠻⣿⣿⣿⣿⣿⣿⣿⣇⢻⣿⣿⣿⣿    Location: Italy
-  ⠄⢰⠃⣿⣿⠿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠙⠿⣿⣿⣿⣿⣿⠄⢿⣿⣿⣿⡄    OS: Linux x86_64 (Hardened Kernel)
-  ⠄⢸⢠⣿⣿⣧⡙⣿⣿⡆⠄⠄⠄⠄⠄⠄⠄⠈⠛⢿⣿⣿⡇⠸⣿⡿⣸⡇    Uptime: 24/7 Automated Operations
-  ⠄⠈⡆⣿⣿⣿⣿⣦⡙⠳⠄⠄⠄⠄⠄⠄⢀⣠⣤⣀⣈⠙⠃⠄⠿⢇⣿⡇    Core Focus: DevSecOps | SIEM | Multi-Cloud
-  ⠄⠄⡇⢿⣿⣿⣿⣿⡇⠄⠄⠄⠄⠄⣠⣶⣿⣿⣿⣿⣿⣿⣷⣆⡀⣼⣿⡇    IaC: Terraform · Ansible · Docker · K8s
-  ⠄⠄⢹⡘⣿⣿⣿⢿⣷⡀⠄⢀⣴⣾⣟⠉⠉⠉⠉⣽⣿⣿⣿⣿⠇⢹⣿⠃    Security: Wazuh · HashiCorp Vault · Trivy
-  ⠄⠄⠄⢷⡘⢿⣿⣎⢻⣷⠰⣿⣿⣿⣿⣦⣀⣀⣴⣿⣿⣿⠟⢫⡾⢸⡟    Cloud: AWS · Azure · GCP · Oracle OCI
-  ⠄⠄⠄⠄⠻⣦⡙⠿⣧⠙⢷⠙⠻⠿⢿⡿⠿⠿⠛⠋⠉⠄⠂⠘⠁⠞    Observability: Icinga · Prometheus · Grafana
-  ⠄⠄⠄⠄⠄⠈⠙⠑⣠⣤⣴⡖⠄⠿⣋⣉⣉⡁⠄⢾⣦               Languages: Go · Python · Bash · Rust
+  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡀⡀⢀⣴⢆⣠⡶⢠⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄    User: Giulio Savini
+  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⢠⣸⣧⣿⣿⣿⣿⣿⣷⣿⣇⣰⡀⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄    Role: Infrastructure & Platform Engineer
+  ⠄⠄⠄⠄⠄⠄⠄⢄⡲⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⠂⠄⠄⠄⠄⠄⠄⠄⠄    Location: Italy
+  ⠄⠄⠄⠄⠄⠄⠠⣬⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣖⡀⠄⠄⠄⠄⠄⠄⠄    OS: Linux x86_64 (Hardened Kernel)
+  ⠄⠄⠄⠄⠄⠄⠄⠐⠚⠻⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠛⠉⠄⠄⠄⠄⠄⠄⠄⠄    Uptime: 24/7 Automated Operations
+  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⢠⣔⠄⠄⠄⠄⠄⢀⡀⠄⠄⢠⡄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄    Core Focus: DevSecOps | SIEM | Multi-Cloud
+  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⢻⣿⣶⣦⣴⣶⣮⣤⣴⣾⡿⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄    IaC: Terraform · Ansible · Docker · K8s
+  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⢿⣿⣿⣿⣿⣿⣿⠋⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄    Security: Wazuh · HashiCorp Vault · Trivy
+  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠸⠿⠿⠿⠿⠿⠛⠄⠄⠄⡔⠄⠄⠄⠄⠄⠄⠄⠄⠄    Cloud: AWS · Azure · GCP · Oracle OCI
+  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄    Observability: Icinga · Prometheus · Grafana
+  ⠄⠄⠄⠄⠄⢀⣀⡤⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠐⢦⣤⣀⠄⠄⠄⠄⠄⠄    Languages: Go · Python · Bash · Rust
+  ⡀⠤⠐⠒⠉⠉⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠛⠓⠂⠤⠄⣀    Editor: VS Code
+  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄    Status: ● online
                                                 
                                                 ● ● ● ● ● ● ● ●
 ```
