@@ -34,19 +34,17 @@
 ```text
 ╭─[giulio@workstation]
 ╰─$ neofetch
-  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡀⡀⢀⣴⢆⣠⡶⢠⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄    User: Giulio Savini
-  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⢠⣸⣧⣿⣿⣿⣿⣿⣷⣿⣇⣰⡀⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄    Role: Infrastructure & Platform Engineer
-  ⠄⠄⠄⠄⠄⠄⠄⢄⡲⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⠂⠄⠄⠄⠄⠄⠄⠄⠄    Location: Italy
-  ⠄⠄⠄⠄⠄⠄⠠⣬⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣖⡀⠄⠄⠄⠄⠄⠄⠄    OS: Linux x86_64 (Hardened Kernel)
-  ⠄⠄⠄⠄⠄⠄⠄⠐⠚⠻⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠛⠉⠄⠄⠄⠄⠄⠄⠄⠄    Uptime: 24/7 Automated Operations
-  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⢠⣔⠄⠄⠄⠄⠄⢀⡀⠄⠄⢠⡄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄    Core Focus: DevSecOps | SIEM | Multi-Cloud
-  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⢻⣿⣶⣦⣴⣶⣮⣤⣴⣾⡿⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄    IaC: Terraform · Ansible · Docker · K8s
-  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⢿⣿⣿⣿⣿⣿⣿⠋⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄    Security: Wazuh · HashiCorp Vault · Trivy
-  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠸⠿⠿⠿⠿⠿⠛⠄⠄⠄⡔⠄⠄⠄⠄⠄⠄⠄⠄⠄    Cloud: AWS · Azure · GCP · Oracle OCI
-  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄    Observability: Icinga · Prometheus · Grafana
-  ⠄⠄⠄⠄⠄⢀⣀⡤⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠐⢦⣤⣀⠄⠄⠄⠄⠄⠄    Languages: Go · Python · Bash · Rust
-  ⡀⠤⠐⠒⠉⠉⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠛⠓⠂⠤⠄⣀    Editor: VS Code
-  ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄    Status: ● online
+  ⠄⠄⠄⠄⢠⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣯⢻⣿⣿⣿⣿⣆    User: Giulio Savini
+  ⠄⠄⣼⢀⣿⣿⣿⣿⣏⡏⠄⠹⣿⣿⣿⣿⣿⣿⣿⣿⣧⢻⣿⣿⣿⣿⡆    Role: Infrastructure & Platform Engineer
+  ⠄⠄⡟⣼⣿⣿⣿⣿⣿⠄⠄⠄⠈⠻⣿⣿⣿⣿⣿⣿⣿⣇⢻⣿⣿⣿⣿    Location: Italy
+  ⠄⢰⠃⣿⣿⠿⣿⣿⣿⠄⠄⠄⠄⠄⠄⠙⠿⣿⣿⣿⣿⣿⠄⢿⣿⣿⣿⡄    OS: Linux x86_64 (Hardened Kernel)
+  ⠄⢸⢠⣿⣿⣧⡙⣿⣿⡆⠄⠄⠄⠄⠄⠄⠄⠈⠛⢿⣿⣿⡇⠸⣿⡿⣸⡇    Uptime: 24/7 Automated Operations
+  ⠄⠈⡆⣿⣿⣿⣿⣦⡙⠳⠄⠄⠄⠄⠄⠄⢀⣠⣤⣀⣈⠙⠃⠄⠿⢇⣿⡇    Core Focus: DevSecOps | SIEM | Multi-Cloud
+  ⠄⠄⡇⢿⣿⣿⣿⣿⡇⠄⠄⠄⠄⠄⣠⣶⣿⣿⣿⣿⣿⣿⣷⣆⡀⣼⣿⡇    IaC: Terraform · Ansible · Docker · K8s
+  ⠄⠄⢹⡘⣿⣿⣿⢿⣷⡀⠄⢀⣴⣾⣟⠉⠉⠉⠉⣽⣿⣿⣿⣿⠇⢹⣿⠃    Security: Wazuh · HashiCorp Vault · Trivy
+  ⠄⠄⠄⢷⡘⢿⣿⣎⢻⣷⠰⣿⣿⣿⣿⣦⣀⣀⣴⣿⣿⣿⠟⢫⡾⢸⡟    Cloud: AWS · Azure · GCP · Oracle OCI
+  ⠄⠄⠄⠄⠻⣦⡙⠿⣧⠙⢷⠙⠻⠿⢿⡿⠿⠿⠛⠋⠉⠄⠂⠘⠁⠞    Observability: Icinga · Prometheus · Grafana
+  ⠄⠄⠄⠄⠄⠈⠙⠑⣠⣤⣴⡖⠄⠿⣋⣉⣉⡁⠄⢾⣦               Languages: Go · Python · Bash · Rust
                                                 
                                                 ● ● ● ● ● ● ● ●
 ```
