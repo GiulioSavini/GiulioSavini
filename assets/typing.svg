@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="44" viewBox="0 0 720 44">
+<style>
+  .t { font: 600 18px "JetBrains Mono", "Fira Code", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; fill: #E0202C; }
+  .p { font: 600 18px "JetBrains Mono", "Fira Code", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; fill: #8B949E; }
+  .cur { animation: blink 1s steps(2,start) infinite; fill: #E0202C; }
+  @keyframes blink { to { visibility: hidden; } }
+  @keyframes show0 { 0%,0.00% { visibility: hidden; } 0.00%,20.00% { visibility: visible; } 20.00%,100% { visibility: hidden; } }
+  @keyframes type0 { 0%,0.00% { width: 0; } 10.00%,100% { width: 400px; } }
+  @keyframes show1 { 0%,20.00% { visibility: hidden; } 20.00%,40.00% { visibility: visible; } 40.00%,100% { visibility: hidden; } }
+  @keyframes type1 { 0%,20.00% { width: 0; } 30.00%,100% { width: 400px; } }
+  @keyframes show2 { 0%,40.00% { visibility: hidden; } 40.00%,60.00% { visibility: visible; } 60.00%,100% { visibility: hidden; } }
+  @keyframes type2 { 0%,40.00% { width: 0; } 50.00%,100% { width: 540px; } }
+  @keyframes show3 { 0%,60.00% { visibility: hidden; } 60.00%,80.00% { visibility: visible; } 80.00%,100% { visibility: hidden; } }
+  @keyframes type3 { 0%,60.00% { width: 0; } 70.00%,100% { width: 410px; } }
+  @keyframes show4 { 0%,80.00% { visibility: hidden; } 80.00%,100.00% { visibility: visible; } 100.00%,100% { visibility: hidden; } }
+  @keyframes type4 { 0%,80.00% { width: 0; } 90.00%,100% { width: 421px; } }
+</style>
+<rect width="100%" height="100%" fill="none"/>
+  <g style="animation: show0 16.0s steps(1,end) infinite">
+    <clipPath id="c0"><rect x="160" y="0" height="44" width="0" style="animation: type0 16.0s steps(37,end) infinite"/></clipPath>
+    <text x="360.0" y="29" text-anchor="middle" class="t" clip-path="url(#c0)">Infrastructure &amp; Platform Engineering</text>
+  </g>
+  <g style="animation: show1 16.0s steps(1,end) infinite">
+    <clipPath id="c1"><rect x="160" y="0" height="44" width="0" style="animation: type1 16.0s steps(37,end) infinite"/></clipPath>
+    <text x="360.0" y="29" text-anchor="middle" class="t" clip-path="url(#c1)">DevSecOps, SIEM &amp; Security Automation</text>
+  </g>
+  <g style="animation: show2 16.0s steps(1,end) infinite">
+    <clipPath id="c2"><rect x="90" y="0" height="44" width="0" style="animation: type2 16.0s steps(50,end) infinite"/></clipPath>
+    <text x="360.0" y="29" text-anchor="middle" class="t" clip-path="url(#c2)">Multi-Cloud Architecture — AWS · Azure · GCP · OCI</text>
+  </g>
+  <g style="animation: show3 16.0s steps(1,end) infinite">
+    <clipPath id="c3"><rect x="155" y="0" height="44" width="0" style="animation: type3 16.0s steps(38,end) infinite"/></clipPath>
+    <text x="360.0" y="29" text-anchor="middle" class="t" clip-path="url(#c3)">Ansible Galaxy Author &amp; OSS Maintainer</text>
+  </g>
+  <g style="animation: show4 16.0s steps(1,end) infinite">
+    <clipPath id="c4"><rect x="149" y="0" height="44" width="0" style="animation: type4 16.0s steps(39,end) infinite"/></clipPath>
+    <text x="360.0" y="29" text-anchor="middle" class="t" clip-path="url(#c4)">Container Orchestration &amp; Observability</text>
+  </g>
+<text x="680" y="29" class="cur">▌</text>
+</svg>
