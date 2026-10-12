@@ -9,7 +9,7 @@
 
   <p>
     <a href="https://github.com/GiulioSavini?tab=followers"><img src="https://img.shields.io/github/followers/GiulioSavini?label=Followers&style=for-the-badge&logo=github&logoColor=E0202C&color=0D1117&labelColor=161B22" /></a>
-    <a href="https://github.com/GiulioSavini?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-13-E0202C?style=for-the-badge&logo=git&logoColor=white&labelColor=161B22" /></a>
+    <a href="https://github.com/GiulioSavini?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-10-E0202C?style=for-the-badge&logo=git&logoColor=white&labelColor=161B22" /></a>
     <img src="https://komarev.com/ghpvc/?username=GiulioSavini&style=for-the-badge&color=E0202C&label=Profile+Views" />
   </p>
 
@@ -79,7 +79,7 @@
   <a href="https://github.com/GiulioSavini/devops-toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=devops-toolkit&bg_color=0D1117&title_color=E0202C&icon_color=E0202C&text_color=C9D1D9&border_color=30363D" /></a>
   <br/>
   <a href="https://github.com/GiulioSavini/secret-rotator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=secret-rotator&bg_color=0D1117&title_color=E0202C&icon_color=E0202C&text_color=C9D1D9&border_color=30363D" /></a>
-  <a href="https://github.com/GiulioSavini/issue-dash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=issue-dash&bg_color=0D1117&title_color=E0202C&icon_color=E0202C&text_color=C9D1D9&border_color=30363D" /></a>
+  <a href="https://github.com/GiulioSavini/vmware-tools-builder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GiulioSavini&repo=vmware-tools-builder&bg_color=0D1117&title_color=E0202C&icon_color=E0202C&text_color=C9D1D9&border_color=30363D" /></a>
 </div>
 
 <br/>
