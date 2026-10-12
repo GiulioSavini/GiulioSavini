@@ -87,7 +87,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=ACTIVITY&fontColor=E0202C&fontSize=26&height=60&fontAlignY=55" />
 
-  <img src="https://streak-stats.demolab.com/?user=GiulioSavini&hide_border=false&border=30363D&background=0D1117&ring=E0202C&fire=E0202C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=E0202C&sideLabels=8B949E&dates=8B949E" alt="Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiulioSavini&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&bg_color=0D1117&title_color=E0202C&icon_color=E0202C&text_color=C9D1D9&border_color=30363D" alt="GitHub stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiulioSavini&layout=compact&langs_count=8&bg_color=0D1117&title_color=E0202C&text_color=C9D1D9&border_color=30363D" alt="Top languages" height="180" />
 
   <br/><br/>
